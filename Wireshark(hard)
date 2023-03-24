@@ -1,1 +1,12 @@
-
+(𝐌𝐞𝐝𝐢𝐮𝐦:-only 1st question....)
+Open Wireshark (after installing).
+Click on Capture & then Interfaces.
+Select any running Network (Microsoft, Realtek, Oracle etc.) & then click on Start.
+Open Chrome & type " www.rrpryj.org " & click on Result.
+Come Back to Wireshark.
+Give Filter as "http" & then click on apply.
+On left bottom console, (Expand) HyperText Transfer Protocol.
+Click on " Host :- " & Right click on it then select "Apoly as column". 
+Select any http packet.
+Right click on it & Select "Follow TCP stream" 
+Hex code will be generated. Show it as output. (Host name).
