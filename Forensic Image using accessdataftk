@@ -1,1 +1,27 @@
-
+Open CF tools folder from desktop.
+Double Click on AccessData FTK Imager folder.
+Select AccessData FTK 3.2.0 (present in desktop taskbar)
+Click on yes (for installation).
+Click on Next & then Install.
+Mark (✔️) in checkbox.
+Click on Next(Interface opens).
+(After opens) Click on File.
+Select Create Disk Image > Contents of a folder.
+Click on Next & Then yes.
+Click on Browse & select This pc.
+Select C drive {C:\Turbo C++}
+Click on Add.
+Case No. - 01,Evidence No:- 01, Unique Disc :- prac1, Examine & Notes :-   -- (null).
+Click on Next & Browse.
+Select Desktop & then click on OK.
+Give ImageFile Name:-"cf1".
+Click on Finish.
+Click on start & click on Image Summery button.
+Click on Ok & then Close.
+Go in File (left top) & select Add evidence item.
+Click on Image file & Do next.
+Click on Browse , then select Desktop & select cf1.ad1 file from it. 
+Click on Open & then Finish.
+On left side... Open cf1.ad1 folder & select TurboC++ .
+Click on any random file.
+In bottom table, output will be shown in hex form.
