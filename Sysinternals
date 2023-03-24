@@ -1,0 +1,30 @@
+Open CF tools folder from desktop & Open Sysinternals Tools.
+A)Monitor Live Processes(ProcMon) :-
+Select Architecture :- "Process Name" (in 1st drop down) & then type chrome.exe (in 3rd drop down).
+Click on Add & then Ok. (chrome.exe packets will be shown in background.)
+Go in Tools (at top) & click on Process Tree.
+Click on " service.exe"  & then click on close.
+Go again in Tools & click on "Count Occurances"
+Give column as "Process Tree"
+Click on Count.
+Save the generated output as desktop to show.
+Go again in tools &select File Summary.
+Save the generated output on desktop.
+
+B)Capture RAM (RAM Capture) [tool not available].
+
+C)Capture TCP/UDP packets (tcpview):-
+Open sysinternals tools from cf tools folder.
+Open tcpview.
+Select on chrome.exe & right click on it & select Whois.
+Go in File & select it to save it.
+D)Monitor Hard Disk (diskmon) [not available]
+
+E)Monitor Virtual Memory
+select (vmmap tool).
+Select on chrome.exe & show it as output.
+Save in on Desktop to show.
+
+F)Monitor Captured Memory.
+Open Sysinternals from CF tools.
+After opening , show it as output.
