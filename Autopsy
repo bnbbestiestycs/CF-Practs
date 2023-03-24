@@ -1,1 +1,32 @@
-
+Open CF tools folder from desktop.
+Select Autopsy folder , select autopsy & install it after right clicking on it. 
+Do Next & again Next & Then install.
+Click on Yes & then Finish.
+Open Autopsy from desktop.
+Give Case Name :- "Sam"
+Click on Browse & select Desktop.
+Create new folder & give name as "autopsy". Create it.
+Click on Select & then next.
+Give, Case Name:- 001; Examiner:- Ram, Click on Finish.
+Select "logical file" In source type to add.
+Click on Browse & then This PC.
+𝐏𝐚𝐫𝐭𝟏:- (Creation of Ad1 file):-
+[Do this in AccessData FTK Imager]
+Go in File & Select Create Disk Image.
+Select Physical Drive & click on Next.
+Click on Inter Check box & then click on finish.
+Click on Add button & then select oE01. 
+Give Case Name:- 11, Evidance No:- 11 & Unique Description, Examiner, Notes :- --- (keep it blank) .
+Click on Next & then Browse.
+Select Desktop & give file name as "timepass".
+Click on Finish. After this ad file will be created. (& it will be saved on desktop)
+𝐏𝐚𝐫𝐭𝟐:- (Come back in Autopsy)
+Open Autopsy & open Recent case.
+Select "sam.out" file & then open.
+Click on "add data source"(+).
+Click on Browse & then select desktop.
+Select "timepass.E01" file.
+Click on Next & select all.
+Click on Next & then Finish.
+Select (timepass.E01) file & open it.
+Show it as Output.
