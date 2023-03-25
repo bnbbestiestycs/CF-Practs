@@ -17,8 +17,9 @@ ______________________________________________
 C)Capture TCP/UDP packets (tcpview):-
 Open sysinternals tools from cf tools folder.
 Open tcpview.
-Select on chrome.exe or (any 1 item) & right click on it & select Copy. Paste it in notepad.
-Go again in that file & right click on it & then click on who is. Save the generated output by choosing file option & then save it.
+Select on chrome.exe or (any 1 item) & right click on it & select Copy option.
+Go again in that file & right click on it & then click on who is. Output will be shown in auto generated notepad file. 
+Save the generated output by choosing file option & then save it.
 ________________________________________________
 D)Monitor Hard Disk (diskmon) [not available and accessible]
 ________________________________________________
